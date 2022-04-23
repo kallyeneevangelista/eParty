@@ -4,7 +4,7 @@ Este projeto que estou desenvolvendo é um potencial site de convivência e comp
 -------------------------------------------------
 Brainstorm individual_Kallyene:
 
-. Páginas e funcionalidades:
+[] Páginas e funcionalidades:
     Home (entrada)
     Radio (espaço para escolher músicas, playlists integradas com plataformas de streaming e remixagem)
     Video (vídeos multiplataforma e lives)
@@ -14,13 +14,5 @@ Brainstorm individual_Kallyene:
     Filters (temáticos para as calls)
 ---------------------------------------------------
 
-Layout e paleta de cores_Jonas e Kallyene:
+[] Layout e paleta de cores_Jonas e Kallyene:
 
-.
-.
-.
-.
-.
-.
-.
-----------------------------------------------------
