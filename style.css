@@ -1,0 +1,25 @@
+body {
+    background-color: #f8f9fa;
+}
+
+h1 {
+    background-color: #dee2e6;
+    text-align: center;
+    padding: 15px;
+}
+
+nav {
+    background-color: #ced4da;
+    text-align: center;
+    padding: 15px;
+}
+
+main {
+    text-align: center;
+}
+
+footer {
+    background-color: #adb5bd;
+    text-align: center;
+    color: white;
+}
